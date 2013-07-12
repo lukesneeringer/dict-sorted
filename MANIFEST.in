@@ -4,10 +4,10 @@
 include AUTHORS
 include LICENSE
 include VERSION
-include sdist/VERSION
+include sdict/VERSION
 include requirements.txt
 
 # -------------------
 # -- Documentation --
 # -------------------
-# recursive-include docs *
+recursive-include docs *
