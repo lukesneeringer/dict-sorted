@@ -1,0 +1,7 @@
+[run]
+source = sdict/
+branch = True
+timid = True
+
+[html]
+directory = .coverage-html/

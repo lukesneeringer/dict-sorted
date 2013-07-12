@@ -1,0 +1,8 @@
+language: python
+python:
+    - 3.3
+install:
+    - "pip install tox"
+    - "pip install --use-mirrors -r requirements.txt"
+script:
+    - "python setup.py test"

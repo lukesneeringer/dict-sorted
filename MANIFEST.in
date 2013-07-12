@@ -1,0 +1,13 @@
+# ----------------------
+# -- Package Metadata --
+# ----------------------
+include AUTHORS
+include LICENSE
+include VERSION
+include sdist/VERSION
+include requirements.txt
+
+# -------------------
+# -- Documentation --
+# -------------------
+# recursive-include docs *
